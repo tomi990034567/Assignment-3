@@ -11,11 +11,14 @@
   <main>
     <div class="search-container">
       <h2>Search for Literature</h2>
+      <div id="search-results">
+    <!-- Search results will be displayed here -->
+    </div>
       <div class="search-options">
         <button id="advanced-search">Advanced Search</button>
       </div>
       <div class="search-bar">
-        <input type="text" id="search" placeholder="Search for Literature...">
+        <input type="text" id="search" placeholder="Search for books...">
         <button onclick="searchBooks()">Search</button>
       </div>
       <h2>Search Criteria</h2>
@@ -35,7 +38,6 @@
         <input type="text" id="keyword">
       </div>
     </div>
-    <!-- Display search results here -->
   </main>
   <script>
     const advancedSearchButton = document.getElementById('advanced-search');
@@ -45,5 +47,43 @@
       advancedOptions.style.display = advancedOptions.style.display === 'none' ? 'block' : 'none';
     });
   </script>
+  <script>
+  // Sample CSV data (you should load your actual CSV data here)
+  const csvData = `Genre,Author,Title,Year,Additional Information
+      Non-fiction,Thompson, Hunter S.,Fear and Loathing in Las Vegas,1971,Bio
+      Non-fiction,Troyat, Henri,Tolstoy,1967,Bio
+      Non-fiction,Wolfe, Tom,The Electric Kool-Aid Acid Test,1968,
+      Non-fiction,Dalrymple, Theodore,Our Culture: What’s Left of It,2005,
+      Non-fiction,Dalrymple, Theodore,Life at the Bottom: The Worldview That Makes the Underclass,2001,
+      `;
+
+  // Function to search for books
+  function searchBooks() {
+    const searchTerm = document.getElementById("search").value.toLowerCase();
+    const searchResults = document.getElementById("search-results");
+    searchResults.innerHTML = "";
+
+    // Split the CSV data into rows
+    const rows = csvData.split("\n");
+
+    // Create a list to display search results
+    const resultList = document.createElement("ul");
+
+    // Iterate through rows and search for matching books
+    rows.forEach(row => {
+      const columns = row.split(",");
+      const bookTitle = columns[2].toLowerCase();
+      if (bookTitle.includes(searchTerm)) {
+        // Create a list item for each matching book
+        const resultItem = document.createElement("li");
+        resultItem.textContent = `Title: ${columns[2]}, Author: ${columns[1]}, Year: ${columns[3]}`;
+        resultList.appendChild(resultItem);
+      }
+    });
+
+    // Display the list of matching books in the results section
+    searchResults.appendChild(resultList);
+  }
+</script>
 </body>
 </html>
