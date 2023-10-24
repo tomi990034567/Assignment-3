@@ -11,15 +11,14 @@
   <main>
     <div class="search-container">
       <h2>Search for Literature</h2>
-      <div id="search-results">
-    <!-- Search results will be displayed here -->
-    </div>
       <div class="search-options">
         <button id="advanced-search">Advanced Search</button>
       </div>
       <div class="search-bar">
         <input type="text" id="search" placeholder="Search for books...">
         <button onclick="searchBooks()">Search</button>
+        <div id="search-results">
+    <!-- Search results will be displayed here -->
       </div>
       <h2>Search Criteria</h2>
       <div class="advanced-options" style="display: none;">
@@ -49,8 +48,8 @@
   </script>
   <script>
   // Sample CSV data (you should load your actual CSV data here)
-  const csvData = `Genre,Author,Title,Year,Additional Information
-      Non-fiction,Thompson, Hunter S.,Fear and Loathing in Las Vegas,1971,Bio
+  const csvData = `Genre,Author,Title,Year,Book
+      Non-fiction,Thompson, Hunter S.,Fear and Loathing in Las Vegas,1971,Book
       Non-fiction,Troyat, Henri,Tolstoy,1967,Bio
       Non-fiction,Wolfe, Tom,The Electric Kool-Aid Acid Test,1968,
       Non-fiction,Dalrymple, Theodore,Our Culture: What’s Left of It,2005,
