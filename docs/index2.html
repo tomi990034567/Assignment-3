@@ -46,43 +46,5 @@
       advancedOptions.style.display = advancedOptions.style.display === 'none' ? 'block' : 'none';
     });
   </script>
-  <script>
-  // Sample CSV data (you should load your actual CSV data here)
-  const csvData = `Genre,Author,Title,Year,Book
-      Non-fiction,Thompson, Hunter S.,Fear and Loathing in Las Vegas,1971,Book
-      Non-fiction,Troyat, Henri,Tolstoy,1967,Bio
-      Non-fiction,Wolfe, Tom,The Electric Kool-Aid Acid Test,1968,
-      Non-fiction,Dalrymple, Theodore,Our Culture: What’s Left of It,2005,
-      Non-fiction,Dalrymple, Theodore,Life at the Bottom: The Worldview That Makes the Underclass,2001,
-      `;
-
-  // Function to search for books
-  function searchBooks() {
-    const searchTerm = document.getElementById("search").value.toLowerCase();
-    const searchResults = document.getElementById("search-results");
-    searchResults.innerHTML = "";
-
-    // Split the CSV data into rows
-    const rows = csvData.split("\n");
-
-    // Create a list to display search results
-    const resultList = document.createElement("ul");
-
-    // Iterate through rows and search for matching books
-    rows.forEach(row => {
-      const columns = row.split(",");
-      const bookTitle = columns[2].toLowerCase();
-      if (bookTitle.includes(searchTerm)) {
-        // Create a list item for each matching book
-        const resultItem = document.createElement("li");
-        resultItem.textContent = `Title: ${columns[2]}, Author: ${columns[1]}, Year: ${columns[3]}`;
-        resultList.appendChild(resultItem);
-      }
-    });
-
-    // Display the list of matching books in the results section
-    searchResults.appendChild(resultList);
-  }
-</script>
 </body>
 </html>
