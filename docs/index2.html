@@ -1,78 +1,25 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-    <title>A3: Project: Algorithm Design</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <link rel="stylesheet" href="assets/css/mainALGO.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Search algorithm</title>
 </head>
-  <body class="is-preload">
 
-<section id="header">
-    <header>
-        <span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
-        <h1 id="logo"><a href="#">Group 4</a></h1>
-        <p>We have programmed an Algorithm<br />
-            and it's totally cray</p>
-      </header>
-    <nav id="nav">
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="dataset.html">Dataset</a></li>
-            <li><a href="algorithm.html">Algorithm</a></li>
-            <li><a href="Index2.html">University</a></li>
-            <li><a href="people.html">Team</a></li>
-        </ul>
-    </nav>
-    <footer>
-        <ul class="icons">
-            <li><a href="https://github.com/tomi990034567/Assignment-3" class="icon brands fa-github"><span class="label">Github</span></a></li>
-            </li>
-        </ul>
-    </footer>
-</section>
 <body>
-  <header>
-    <h1>University Library</h1>
-  </header>
-  <main>
-    <div class="container">
-      <h2>Search for Literature</h2>
-      <div class="search-options">
-        <button id="advanced-search">Advanced Search</button>
-      </div>
-      <div class="container">
-        <form action="https://www.google.com" method="get" class="search-bar" 
-        <input type="text" id="search" placeholder="Search for books...">
-        <button onclick="searchBooks()">Search</button>
-        <div id="search-results">
-    <!-- Search results will be displayed here -->
-      </div>
-      <h2>Search Criteria</h2>
-      <div class="advanced-options" style="display: none;">
-        <label for="from-year">From Year:</label>
-        <input type="number" id="from-year">
-        <label for="until-year">Until Year:</label>
-        <input type="number" id="until-year">
-        <label for="language">Language:</label>
-        <input type="text" id="language">
-        <label for="content-type">Content Type:</label>
-        <select id="content-type">
-          <option value="book">Book</option>
-          <option value="article">Article</option>
-        </select>
-        <label for="keyword">Keyword:</label>
-        <input type="text" id="keyword">
-      </div>
-    </div>
-  </main>
-  <script>
-    const advancedSearchButton = document.getElementById('advanced-search');
-    const advancedOptions = document.querySelector('.advanced-options');
+    <select id="genre">
+        <option value="All">All</option>
+        <option value="Non-fiction">Non-fiction</option>
+        <option value="Fiction">Fiction</option>
+      </select>
+    <input id="searchBar" type="text" placeholder="Search for title or author...">
+    <button onClick="search()">Search</button>
+    <div id="result-grid"></div>
+    <div id="searchMessage"></div>
 
-    advancedSearchButton.addEventListener('click', () => {
-      advancedOptions.style.display = advancedOptions.style.display === 'none' ? 'block' : 'none';
-    });
-  </script>
+    <script src="data.js"></script>
+    <script src="main.js"></script>
 </body>
 </html>
