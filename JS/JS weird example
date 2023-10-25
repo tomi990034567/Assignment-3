@@ -1,0 +1,49 @@
+// Function to search for books by author
+function searchBooksByAuthor(authorName) {
+  const author = authorsData.find((a) => a.Author_Name === authorName);
+
+  if (!author) {
+    return "Author not found.";
+  }
+
+  const booksByAuthor = authorsBooksData
+    .filter((ab) => ab.Author_ID === author.Author_ID)
+    .map((ab) => {
+      const book = booksData.find((b) => b.Book_ID === ab.Book_ID);
+      return book ? book.Title : "Book not found";
+    });
+
+  return booksByAuthor;
+}
+
+// Function to search for books by title
+function searchBooksByTitle(title) {
+  const booksWithTitle = booksData
+    .filter((b) => b.Title.toLowerCase().includes(title.toLowerCase()))
+    .map((b) => b.Title);
+
+  return booksWithTitle.length ? booksWithTitle : "No books found with that title.";
+}
+
+// Function to search for books by subject
+function searchBooksBySubject(subjectName) {
+  const subject = subjectsData.find((s) => s.Subject_Name === subjectName);
+
+  if (!subject) {
+    return "Subject not found.";
+  }
+
+  const booksBySubject = booksSubjectsData
+    .filter((bs) => bs.Subject_ID === subject.Subject_ID)
+    .map((bs) => {
+      const book = booksData.find((b) => b.Book_ID === bs.Book_ID);
+      return book ? book.Title : "Book not found";
+    });
+
+  return booksBySubject;
+}
+
+// Example usage:
+console.log(searchBooksByAuthor("Becker, Ernest")); // Search by author
+console.log(searchBooksByTitle("Devil")); // Search by title
+console.log(searchBooksBySubject("Philosophy")); // Search by subje
