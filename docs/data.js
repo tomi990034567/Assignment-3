@@ -405,7 +405,7 @@ const dataset = [
         "genre": "Clinical Psychology and Psychiatry",
         "author": "Sun, Zi",
         "title": "The Art of War",
-        "year": "500 BCE",
+        "year": "2003",
         "image": "images/sun.jpg"
     },
 	//52.
@@ -429,7 +429,7 @@ const dataset = [
         "genre": "Religion and Religious History",
         "author": "Vyasa",
         "title": "The Bhagavad Gita",
-        "year": "500 BCE",
+        "year": "1994",
         "image": "images/vyasa.jpg"
     },
 	//55.
