@@ -405,7 +405,7 @@ const dataset = [
         "genre": "Clinical Psychology and Psychiatry",
         "author": "Sun, Zi",
         "title": "The Art of War",
-        "year": 500 BCE,
+        "year": "500 BCE",
         "image": "images/sun.jpg"
     },
 	//52.
@@ -429,7 +429,7 @@ const dataset = [
         "genre": "Religion and Religious History",
         "author": "Vyasa",
         "title": "The Bhagavad Gita",
-        "year": 500 BCE,
+        "year": "500 BCE",
         "image": "images/vyasa.jpg"
     },
 	//55.
@@ -463,8 +463,8 @@ const dataset = [
         "title": "Do Androids Dream of Electric Sheep?",
         "year": 1968,
         "image": "images/watts.jpg"
-    },
-	
+    }
+]
 //subject categories:
 //Subject 1: "General Psychology",
 //Subject 2: "Clinical Psychology and Psychiatry",
