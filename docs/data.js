@@ -464,7 +464,7 @@ const dataset = [
         "year": 1968,
         "image": "images/watts.jpg"
     }
-]
+];
 //subject categories:
 //Subject 1: "General Psychology",
 //Subject 2: "Clinical Psychology and Psychiatry",
