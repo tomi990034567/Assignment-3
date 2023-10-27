@@ -1,5 +1,5 @@
-# Datalogical Thinking Project Template
-This GitHub template was designed to help students of the [*Datalogical Thinking*](https://www.hb.se/globalassets/global/international-office/kursplaner-ischool/ht23_datalogical-thinking-c3mdt1.pdf) course get started with their group project work. 
+# Datalogical Thinking Project Group 4
+This GitHub Page serves our representation for the assignment. 
 
 ## About the Assignment
 For this assignments, students work together in a group to curate 
