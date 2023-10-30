@@ -65,7 +65,10 @@ button:hover {
   background-color: #0056b3;
 }
 
-.result-grid {
+#result-grid {
+    width: max-content;
     display: grid;
     grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin: auto;
 }
