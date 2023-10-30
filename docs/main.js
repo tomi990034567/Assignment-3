@@ -70,11 +70,17 @@ function search() {
         message.innerText = `Please enter valid values for years`;
         document.getElementById("searchMessage").appendChild(message);
     }
-    else if (searchResult.length == 0 || query == "") {
+    else if (query == "") {
+        document.getElementById("result-grid").innerHTML = "";
+        let message = document.createElement("p");
+        message.innerText = `Please enter a search query`;
+        document.getElementById("searchMessage").appendChild(message);
+    }
+    else if (searchResult.length == 0) {
         document.getElementById("result-grid").innerHTML = "";
         let message = document.createElement("p");
         message.innerText = `No results matched your search "${query}"`;
-        document.getElementById("searchMessage").appendChild(message);
+        document.getElementById("searchMessage").appendChild(message);  
     }
     else {
         let message = document.createElement("p");
