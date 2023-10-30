@@ -1,399 +1,409 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<sample>data</sample>
-<library>
-  <entry>
-    <Genre>Non-fiction</Genre>
-    <Author>Thompson, Hunter S.</Author>
-    <Title>Fear and Loathing in Las Vegas</Title>
-    <Year>1971</Year>
-    <Additional_Information>Bio</Additional_Information>
-  </entry>
-  <entry>
-    <Genre>Non-fiction</Genre>
-    <Author>Troyat, Henri</Author>
-    <Title>Tolstoy</Title>
-    <Year>1967</Year>
-    <Additional_Information>Bio</Additional_Information>
-  </entry>
-  <entry>
-    <Genre>Non-fiction</Genre>
-    <Author>Wolfe, Tom</Author>
-    <Title>The Electric Kool-Aid Acid Test</Title>
-    <Year>1968</Year>
-  </entry>
-  <entry>
-    <Genre>Non-fiction</Genre>
-    <Author>Dalrymple, Theodore</Author>
-    <Title>Our Culture: What’s Left of It</Title>
-    <Year>2005</Year>
-  </entry>
-  <entry>
-    <Genre>Non-fiction</Genre>
-    <Author>Dalrymple, Theodore</Author>
-    <Title>Life at the Bottom: The Worldview That Makes the Underclass</Title>
-    <Year>2001</Year>
-  </entry>
-  <entry>
-    <Genre>Non-fiction</Genre>
-    <Author>Nietzsche, Friedrich</Author>
-    <Title>On the Genealogy of Morals</Title>
-    <Year>1996</Year>
-  </entry>
-  <entry>
-    <Genre>Non-fiction</Genre>
-    <Author>Nietzsche, Friedrich</Author>
-    <Title>The Antichrist</Title>
-    <Year>2019</Year>
-  </entry>
-  <entry>
-    <Genre>Non-fiction</Genre>
-    <Author>Nietzsche, Friedrich</Author>
-    <Title>The Gay Science</Title>
-    <Year>2001</Year>
-  </entry>
-  <entry>
-    <Genre>Non-fiction</Genre>
-    <Author>Nietzsche, Friedrich</Author>
-    <Title>The Will to Power</Title>
-    <Year>2019</Year>
-  </entry>
-  <entry>
-    <Genre>Non-fiction</Genre>
-    <Author>Pirsig, Robert</Author>
-    <Title>Zen and the Art of Motorcycle Maintenance</Title>
-    <Year>1974</Year>
-  </entry>
-  <entry>
-    <Genre>Non-fiction</Genre>
-    <Author>Frazer, J.G.</Author>
-    <Title>The Golden Bough: A Study in Magic and Religion</Title>
-    <Year>1963[1922]</Year>
-    <Additional_Information>Available at:</Additional_Information>
-  </entry>
-  <entry>
-    <Genre>Non-fiction</Genre>
-    <Author>Durkheim, Émile</Author>
-    <Title>The Elementary Forms of Religious Life</Title>
-    <Year>1995</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Becker, Ernest</Author>
-    <Title>The Denial of Death</Title>
-    <Year>2020</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Ellenberger, Henri</Author>
-    <Title>The Discovery of the Unconscious</Title>
-    <Year>1981</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Eysenck, Hans</Author>
-    <Title>Genius</Title>
-    <Year>1995</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Freud, Sigmund</Author>
-    <Title>An Outline of Psychoanalysis</Title>
-    <Year>2003</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Freud, Sigmund</Author>
-    <Title>The Interpretation of Dreams</Title>
-    <Year>1899</Year>
-    <Additional_Information>Available online</Additional_Information>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Freud, Sigmund</Author>
-    <Title>Moses and Monotheism</Title>
-    <Year>1939[1939]</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Freud, Sigmund</Author>
-    <Title>Three Contributions to the Theory of Sex</Title>
-    <Year>2018</Year>
-    <Additional_Information>Available at</Additional_Information>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Freud, Sigmund</Author>
-    <Title>Totem and Taboo</Title>
-    <Year>2018</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Jung, Carl</Author>
-    <Title>Aion</Title>
-    <Year>1979</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Jung, Carl</Author>
-    <Title>Answer to Job</Title>
-    <Year>2010</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Jung, Carl</Author>
-    <Title>Archetypes of the Collective Unconscious</Title>
-    <Year>1991</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Jung, C. G.</Author>
-    <Title>The Integration of the Personality</Title>
-    <Year>1939</Year>
-    <Additional_Information>Available online</Additional_Information>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Jung, Carl</Author>
-    <Title>Mysterium Coniunctionis</Title>
-    <Year>1977</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Jung, Carl</Author>
-    <Title>Psychology and Alchemy</Title>
-    <Year>1980</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Jung, Carl</Author>
-    <Title>Existential Psychology: East and West</Title>
-    <Year>2019</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Jung, Carl</Author>
-    <Title>Psychology of Religion: East and West</Title>
-    <Year>1970</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Jung, Carl</Author>
-    <Title>Symbols of Transformation</Title>
-    <Year>1977</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>May, Rollo, Angel, Ernest & Ellenberger, Henri</Author>
-    <Title>Existence: A New Dimension in Psychiatry and Psychology</Title>
-    <Year>1958</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Neumann, Erich</Author>
-    <Title>The Origins and History of Consciousness</Title>
-    <Year>2015</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Neumann, Erich</Author>
-    <Title>The Great Mother</Title>
-    <Year>1964</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Piaget, Jean</Author>
-    <Title>Play, Dreams and Imitation in Childhood</Title>
-    <Year>1962</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Piaget, Jean</Author>
-    <Title>The Moral Judgment of the Child</Title>
-    <Year>2008</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Rogers, Carl</Author>
-    <Title>A Way of Being</Title>
-    <Year>1995</Year>
-  </entry>
-  <entry>
-    <Genre>Clinical Psychology and Psychiatry</Genre>
-    <Author>Rogers, Carl</Author>
-    <Title>On Becoming a Person</Title>
-    <Year>1977</Year>
-  </entry>
-  <entry>
-    <Genre>Neuroscience</Genre>
-    <Author>Gibson, James J.</Author>
-    <Title>The Ecological Approach to Visual Perception</Title>
-    <Year>2014</Year>
-  </entry>
-  <entry>
-    <Genre>Neuroscience</Genre>
-    <Author>Goldberg, Elkhonon</Author>
-    <Title>The New Executive Brain</Title>
-    <Year>2009</Year>
-  </entry>
-  <entry>
-    <Genre>Neuroscience</Genre>
-    <Author>Gray, Jeffrey and Neil McNaughton</Author>
-    <Title>The Neuropsychology of Anxiety</Title>
-    <Year>2003</Year>
-  </entry>
-  <entry>
-    <Genre>Neuroscience</Genre>
-    <Author>LeDoux, Joseph</Author>
-    <Title>The Emotional Brain</Title>
-    <Year>1998</Year>
-  </entry>
-  <entry>
-    <Genre>Neuroscience</Genre>
-    <Author>Sacks, Oliver</Author>
-    <Title>The Man who Mistook his Wife for a Hat</Title>
-    <Year>2022</Year>
-  </entry>
-  <entry>
-    <Genre>Neuroscience</Genre>
-    <Author>Sacks, Oliver</Author>
-    <Title>Awakenings</Title>
-    <Year>2012</Year>
-  </entry>
-  <entry>
-    <Genre>Neuroscience</Genre>
-    <Author>Sacks, Oliver</Author>
-    <Title>An Anthropologist on Mars</Title>
-    <Year>2012</Year>
-  </entry>
-  <entry>
-    <Genre>Neuroscience</Genre>
-    <Author>Swanson, Larry</Author>
-    <Title>Brain Architecture: Understanding the Basic Plan</Title>
-    <Year>2011</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>Burton Russell, Jeffrey</Author>
-    <Title>Mephistopheles: The Devil in the Modern World</Title>
-    <Year>1986</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>Eliade, Mircea</Author>
-    <Title>Myth and Reality</Title>
-    <Year>1963</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>Eliade, Mircea</Author>
-    <Title>Myths, Dreams and Mysteries</Title>
-    <Year>1960</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>Eliade, Mircea</Author>
-    <Title>Shamanism: Archaic Techniques of Ecstasy</Title>
-    <Year>1964</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>Eliade, Mircea</Author>
-    <Title>The Forge and the Crucible</Title>
-    <Year>1956</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>Eliade, Mircea</Author>
-    <Title>The Sacred and the Profane</Title>
-    <Year>1959</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>Frye, Northrop</Author>
-    <Title>The Great Code</Title>
-    <Year>1982</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>Frye, Northrop</Author>
-    <Title>Words with Power</Title>
-    <Year>1990</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>Lewis, Bernard</Author>
-    <Title>The Crisis of Islam</Title>
-    <Year>2003</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>Smith, Huston (Introductory)</Author>
-    <Title>The World’s Religions</Title>
-    <Year>2009</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>The Bible: Designed to be Read as Living Literature</Author>
-    <Title>King James Version translation.</Title>
-    <Year>2008</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>Zla-ba-bsam-grub, Evans-Wentz, W.T, Evans-Wentz, Walter Yeeling & Lopez, Donald S.</Author>
-    <Title>The Tibetan Book of the Dead</Title>
-    <Year>2013</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>Coomaraswamy, Ananda K.</Author>
-    <Title>The Dance of Śiva: Essays on Indian Art and Culture</Title>
-    <Year>1985[1924]</Year>
-  </entry>
-  <entry>
-    <Genre>Religion and Religious History</Genre>
-    <Author>The Bhagavad Gita</Author>
-    <Title>1994</Title>
-  </entry>
-  <entry>
-    <Genre>Philosophy</Genre>
-    <Author>Okakura, Kakuzō</Author>
-    <Title>The Book of Tea</Title>
-    <Year>2020</Year>
-  </entry>
-  <entry>
-    <Genre>Philosophy</Genre>
-    <Author>Watts, Alan</Author>
-    <Title>The Way of Zen</Title>
-    <Year>1999[1957]</Year>
-  </entry>
-  <entry>
-    <Genre>Philosophy</Genre>
-    <Author>Herrigel, Eugen</Author>
-    <Title>Zen in the Art of Archery</Title>
-    <Year>1985[1953]</Year>
-  </entry>
-  <entry>
-    <Genre>Philosophy</Genre>
-    <Author>Lao-Tze (Editor)</Author>
-    <Title>The Canon of Reason and Virtue</Title>
-    <Year>1954</Year>
-  </entry>
-  <entry>
-    <Genre>Philosophy</Genre>
-    <Author>Sun, Zi</Author>
-    <Title>The Art of War: Complete Texts and Commentaries</Title>
-    <Year>2003</Year>
-  </entry>
-  <entry>
-    <Genre>Philosophy</Genre>
-    <Author>Confucius</Author>
-    <Title>The Analects of Confucius</Title>
-    <Year>1938</Year>
-  </entry>
-  <entry>
-    <Genre>Philosophy</Genre>
-    <Author>Confucius</Author>
-    <Title>The Great Digest; The Unwobbling Pivot; The Analects</Title>
-    <Year>1969</Year>
-  </entry>
-</library>
+<root>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Becker, Ernest</author>
+        <title>The Denial of Death</title>
+        <year>2020</year>
+        <image>images/Becker.jpg</image>
+    </book>
+    <book>
+        <genre>Religion and Religious History</genre>
+        <author>Burton Russell, Jeffrey</author>
+        <title>Mephistopheles: The Devil in the Modern World</title>
+        <year>1986</year>
+        <image>images/Burton.jpg</image>
+    </book>
+    <book>
+        <genre>Religion and Religious History</genre>
+        <author>Coomaraswamy, Ananda K.</author>
+        <title>The Dance of Śiva: Essays on Indian Art and Culture</title>
+        <year>1924</year>
+        <image>images/Coomaraswamy.jpg</image>
+    </book>
+    <book>
+        <genre>Philosophy</genre>
+        <author>Confucius</author>
+        <title>The Analects of Confucius</title>
+        <year>1938</year>
+        <image>images/Confucius.jpg</image>
+    </book>
+    <book>
+        <genre>Philosophy</genre>
+        <author>Confucius</author>
+        <title>The Great Digest; The Unwobbling Pivot; The Analects</title>
+        <year>1969</year>
+        <image>images/Confucius.jpg</image>
+    </book>
+    <book>
+        <genre>General Psychology</genre>
+        <author>Dalrymple, Theodore</author>
+        <title>Life at the Bottom: The Worldview That Makes...</title>
+        <year>2001</year>
+        <image>images/Dalrymple.jpg</image>
+    </book>
+    <book>
+        <genre>General Psychology</genre>
+        <author>Dalrymple, Theodore</author>
+        <title>Our Culture: What’s Left of It</title>
+        <year>2005</year>
+        <image>images/Dalrymple2.jpg</image>
+    </book>
+    <book>
+        <genre>General Psychology</genre>
+        <author>Durkheim, Émile</author>
+        <title>The Elementary Forms of Religious Life</title>
+        <year>1995</year>
+        <image>images/Durkheim.jpg</image>
+    </book>
+    <book>
+        <genre>Religion and Religious History</genre>
+        <author>Eliade, Mircea</author>
+        <title>The Forge and the Crucible</title>
+        <year>1956</year>
+        <image>images/Eliade.jpg</image>
+    </book>
+    <book>
+        <genre>Religion and Religious History</genre>
+        <author>Eliade, Mircea</author>
+        <title>Myth and Reality</title>
+        <year>1963</year>
+        <image>images/Eliade2.jpg</image>
+    </book>
+    <book>
+        <genre>Religion and Religious History</genre>
+        <author>Eliade, Mircea</author>
+        <title>Myths, Dreams and Mysteries</title>
+        <year>1960</year>
+        <image>images/Eliade3.jpg</image>
+    </book>
+    <book>
+        <genre>Religion and Religious History</genre>
+        <author>Eliade, Mircea</author>
+        <title>Shamanism: Archaic Techniques of Ecstasy</title>
+        <year>1964</year>
+        <image>images/Eliade4.jpg</image>
+    </book>
+    <book>
+        <genre>Religion and Religious History</genre>
+        <author>Eliade, Mircea</author>
+        <title>The Sacred and the Profane</title>
+        <year>1959</year>
+        <image>images/Eliade.5jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Ellenberger, Henri</author>
+        <title>The Discovery of the Unconscious</title>
+        <year>1981</year>
+        <image>images/Ellenberger.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Eysenck, Hans</author>
+        <title>Genius</title>
+        <year>1995</year>
+        <image>images/Eysenck.jpg</image>
+    </book>
+    <book>
+        <genre>General Psychology</genre>
+        <author>Frazer, J.G.</author>
+        <title>The Golden Bough: A Study in Magic and Religion</title>
+        <year>1922</year>
+        <image>images/Frazer.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Freud, Sigmund</author>
+        <title>The Interpretation of Dreams</title>
+        <year>1899</year>
+        <image>images/Freud.jpg</image>
+    </book>
+<root>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Freud, Sigmund</author>
+        <title>Moses and Monotheism</title>
+        <year>1939</year>
+        <image>images/Freud2.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Freud, Sigmund</author>
+        <title>Three Contributions to the Theory of Sex</title>
+        <year>2018</year>
+        <image>images/Freud3.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Freud, Sigmund</author>
+        <title>Totem and Taboo</title>
+        <year>2018</year>
+        <image>images/Freud4.jpg</image>
+    </book>
+    <book>
+        <genre>Neuroscience</genre>
+        <author>Gibson, James J.</author>
+        <title>The Ecological Approach to Visual Perception</title>
+        <year>2014</year>
+        <image>images/Gibson.jpg</image>
+    </book>
+    <book>
+        <genre>Neuroscience</genre>
+        <author>Goldberg, Elkhonon</author>
+        <title>The New Executive Brain</title>
+        <year>2009</year>
+        <image>images/Goldberg.jpg</image>
+    </book>
+    <book>
+        <genre>Neuroscience</genre>
+        <author>Gray, Jeffrey & Neil McNaughton</author>
+        <title>The Neuropsychology of Anxiety</title>
+        <year>2003</year>
+        <image>images/Gray.jpg</image>
+    </book>
+    <book>
+        <genre>Philosophy</genre>
+        <author>Herrigel, Eugen</author>
+        <title>Zen in the Art of Archery</title>
+        <year>1953</year>
+        <image>images/Herrigel.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Jung, Carl</author>
+        <title>The Integration of the Personality</title>
+        <year>1939</year>
+        <image>images/Jung.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Jung, Carl</author>
+        <title>Psychology and Alchemy</title>
+        <year>1980</year>
+        <image>images/Jung2.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Jung, Carl</author>
+        <title>Symbols of Transformation</title>
+        <year>1977</year>
+        <image>images/Jung3.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Jung, Carl</author>
+        <title>Aion</title>
+        <year>1979</year>
+        <image>images/Jung4.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Jung, Carl</author>
+        <title>Modern man in search of a soul </title>
+        <year>1933</year>
+        <image>images/jung5.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Jung, Carl</author>
+        <title>Mysterium Coniunctionis</title>
+        <year>1977</year>
+        <image>images/jung6.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Jung, Carl</author>
+        <title>Psychology of Religion: East and West</title>
+        <year>1958</year>
+        <image>images/jung7.jpg</image>
+    </book>
+    <book>
+        <genre>Philosophy</genre>
+        <author>Lao-Tze</author>
+        <title>The Canon of Reason and Virtue</title>
+        <year>1954</year>
+        <image>images/laotze.jpg</image>
+    </book>
+    <book>
+        <genre>Neuroscience</genre>
+        <author>LeDoux, Joseph</author>
+        <title>The Emotional Brain</title>
+        <year>1998</year>
+        <image>images/ledoux.jpg</image>
+    </book>
+    <book>
+        <genre>Religion and Religious History</genre>
+        <author>Lewis, Bernard</author>
+        <title>The Crisis of Islam</title>
+        <year>2003</year>
+        <image>images/lewis.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author> May, Rollo, Angel, Ernest & Ellenberger, Henri</author>
+        <title> Existence: A New Dimension in Psychiatry and Psychology</title>
+        <year>1958</year>
+        <image>images/MAE.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Neumann, Erich</author>
+        <title>The Great Mother</title>
+        <year>1964</year>
+        <image>images/neumann.jpg</image>
+    </book>
+    <book>
+        <genre>Religion and Religious History</genre>
+        <author>Neumann, Erich</author>
+        <title>The Origins and History of Consciousness</title>
+        <year>1949</year>
+        <image>images/neumann2.jpg</image>
+    </book>
+    <book>
+        <genre>General Psychology</genre>
+        <author>Nietzsche, Friedrich</author>
+        <title>On the Genealogy of Morals</title>
+        <year>1996</year>
+        <image>images/Nietzsche.jpg</image>
+    </book>
+    <book>
+        <genre>General Psychology</genre>
+        <author>Nietzsche, Friedrich</author>
+        <title>The Antichrist</title>
+        <year>1990</year>
+        <image>images/Nietzsche2.jpg</image>
+    </book>
+    <book>
+        <genre>General Psychology</genre>
+        <author>Nietzsche, Friedrichs</author>
+        <title>The Gay Science</title>
+        <year>1924</year>
+        <image>Nietzsche3.jpg</image>
+    </book>
+    <book>
+        <genre>General Psychology</genre>
+        <author>Nietzsche, Friedrich</author>
+        <title>The Will to Power</title>
+        <year>1933</year>
+        <image>Nietzsche4.jpg</image>
+    </book>
+    <book>
+        <genre>Philosophy</genre>
+        <author>Okakura, Kakuzō</author>
+        <title>The Book of Tea</title>
+        <year>1906</year>
+        <image>images/okakura.jpg</image>
+    </book>
+    <book>
+        <genre>General Psychology</genre>
+        <author>Pirsig, Robert̄</author>
+        <title> Zen and the Art of Motorcycle Maintenance</title>
+        <year>1974</year>
+        <image>images/pirsig.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Piaget, Jean</author>
+        <title> Play, Dreams and Imitation in Childhood</title>
+        <year>1962</year>
+        <image>images/piaget.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Piaget, Jean</author>
+        <title> The Moral Judgment of the Child</title>
+        <year>1932</year>
+        <image>images/piaget2.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Rogers, Carl</author>
+        <title>A Way of Being</title>
+        <year>1995</year>
+        <image>images/rogers.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Rogers, Carl</author>
+        <title>On Becoming a Person</title>
+        <year>1977</year>
+        <image>images/rogers2.jpg</image>
+    </book>
+    <book>
+        <genre>Neuroscience</genre>
+        <author>Sacks, Oliver</author>
+        <title>An Anthropologist on Mars</title>
+        <year>2012</year>
+        <image>images/sacks.jpg</image>
+    </book>
+    <book>
+        <genre>Neuroscience</genre>
+        <author>Sacks, Oliver</author>
+        <title>Awakenings</title>
+        <year>2012</year>
+        <image>images/sacks2.jpg</image>
+    </book>
+    <book>
+        <genre>Neuroscience</genre>
+        <author>Sacks, Oliver</author>
+        <title>The Man who Mistook his Wife for a Hat</title>
+        <year>1985</year>
+        <image>images/sacks3.jpg</image>
+    </book>
+    <book>
+        <genre>Clinical Psychology and Psychiatry</genre>
+        <author>Sun, Zi</author>
+        <title>The Art of War</title>
+        <year>2003</year>
+        <image>images/sun.jpg</image>
+    </book>
+    <book>
+        <genre>Neuroscience</genre>
+        <author>Swanson, Larry</author>
+        <title>Brain Architecture: Understanding the Basic Plan</title>
+        <year>2011</year>
+        <image>images/swanson.jpg</image>
+    </book>
+    <book>
+        <genre>Religion and Religious History</genre>
+        <author></author>
+        <title>The Bible</title>
+        <year>2000</year>
+        <image>images/bible.jpg</image>
+    </book>
+    <book>
+        <genre>Religion and Religious History</genre>
+        <author>Vyasa</author>
+        <title>The Bhagavad Gita</title>
+        <year>1994</year>
+        <image>images/vyasa.jpg</image>
+    </book>
+    <book>
+        <genre>General Psychology</genre>
+        <author>Thompson, Hunter S.</author>
+        <title>Fear and Loathing in Las Vegas</title>
+        <year>1971</year>
+        <image>images/thompson.jpg</image>
+    </book>
+    <book>
+        <genre>General Psychology</genre>
+        <author>Troyat, Henri</author>
+        <title>Tolstoy</title>
+        <year>1967</year>
+        <image>images/troyat.jpg</image>
+    </book>
+    <book>
+        <genre>Philosophy</genre>
+        <author>Watts, Alan</author>
+        <title>The Way of Zen</title>
+        <year>1957</year>
+        <image>images/watts.jpg</image>
+    </book>
+    <book>
+        <genre>Fiction</genre>
+        <author> Dick, Philip K.</author>
+        <title>Do Androids Dream of Electric Sheep?</title>
+        <year>1968</year>
+        <image>images/watts.jpg</image>
+    </book>
+</root>
