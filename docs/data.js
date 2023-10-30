@@ -250,6 +250,258 @@ const dataset = [
     },
 	//32.
     {
+        "genre": "Philosophconst dataset = [
+// Added numbers in comment form to keep track of the curated dataset - L.
+//1.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Becker, Ernest",
+        "title": "The Denial of Death",
+        "year": 2020,
+        "image": "images/Becker.jpg"
+    },
+	//2.
+    {
+        "genre": "Religion and Religious History",
+        "author": "Burton Russell, Jeffrey",
+        "title": "Mephistopheles: The Devil in the Modern World",
+        "year": 1986,
+        "image": "images/Burton.PNG"
+    },
+	//3.
+    {
+        "genre": "Religion and Religious History",
+        "author": "Coomaraswamy, Ananda K.",
+        "title": "The Dance of Śiva: Essays on Indian Art and Culture",
+        "year": 1924,
+        "image": "images/Coomaraswamy.JPG"
+    },
+	//4.
+    {
+        "genre": "Philosophy",
+        "author": "Confucius",
+        "title": "The Analects of Confucius",
+        "year": 1938,
+        "image": "images/Confucius.PNG"
+    },
+	//5.
+    {
+        "genre": "Philosophy",
+        "author": "Confucius",
+        "title": "The Great Digest; The Unwobbling Pivot; The Analects",
+        "year": 1969,
+        "image": "images/Confucius2.PNG"
+    },
+	//6.
+    {
+        "genre": "General Psychology",
+        "author": "Dalrymple, Theodore",
+        "title": "Life at the Bottom: The Worldview That Makes...",
+        "year": 2001,
+        "image": "images/Dalrymple.jpg"
+    },
+	//7.
+    {
+        "genre": "General Psychology",
+        "author": "Dalrymple, Theodore",
+        "title": "Our Culture: What’s Left of It",
+        "year": 2005,
+        "image": "images/Dalrymple2.JPG"
+    },
+	//8.
+    {
+        "genre": "General Psychology",
+        "author": "Durkheim, Émile",
+        "title": "The Elementary Forms of Religious Life",
+        "year": 1995,
+        "image": "images/Durkheim.jpg"
+    },
+	//9.
+    {
+        "genre": "Religion and Religious History",
+        "author": "Eliade, Mircea",
+        "title": "The Forge and the Crucible",
+        "year": 1956,
+        "image": "images/Eliade.JPG"
+    },
+	//10.
+    {
+        "genre": "Religion and Religious History",
+        "author": "Eliade, Mircea",
+        "title": "Myth and Reality",
+        "year": 1963,
+        "image": "images/Eliade2.JPG"
+    },
+	//11.
+    {
+        "genre": "Religion and Religious History",
+        "author": "Eliade, Mircea",
+        "title": "Myths, Dreams and Mysteries",
+        "year": 1960,
+        "image": "images/Eliade3.PNG"
+    },
+	//12.
+    {
+        "genre": "Religion and Religious History",
+        "author": "Eliade, Mircea",
+        "title": "Shamanism: Archaic Techniques of Ecstasy",
+        "year": 1964,
+        "image": "images/Eliade4.jpg"
+    },
+	//13.
+    {
+        "genre": "Religion and Religious History",
+        "author": "Eliade, Mircea",
+        "title": "The Sacred and the Profane",
+        "year": 1959,
+        "image": "images/Eliade5.JPG"
+    },
+	//14.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Ellenberger, Henri",
+        "title": "The Discovery of the Unconscious",
+        "year": 1981,
+        "image": "images/Ellenberger.JPG"
+    },
+	//15.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Eysenck, Hans",
+        "title": "Genius",
+        "year": 1995,
+        "image": "images/Eysenck.jpg"
+    },
+	//16.
+    {
+        "genre": "General Psychology",
+        "author": "Frazer, J.G.",
+        "title": "The Golden Bough: A Study in Magic and Religion",
+        "year": 1922,
+        "image": "images/Frazer.JPG"
+    },
+	//17.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Freud, Sigmund",
+        "title": "The Interpretation of Dreams",
+        "year": 1899,
+        "image": "images/Freud.JPG"
+    },
+	//18.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Freud, Sigmund",
+        "title": "Moses and Monotheism",
+        "year": 1939,
+        "image": "images/Freud2.JPG"
+    },
+	//19.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Freud, Sigmund",
+        "title": "Three Contributions to the Theory of Sex",
+        "year": 2018,
+        "image": "images/Freud3.jpg"
+    },
+	//20.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Freud, Sigmund",
+        "title": "Totem and Taboo",
+        "year": 2018,
+        "image": "images/Freud4.JPG"
+    },
+	//21.
+    {
+        "genre": "Neuroscience",
+        "author": "Gibson, James J.",
+        "title": "The Ecological Approach to Visual Perception",
+        "year": 2014,
+        "image": "images/Gibson.JPG"
+    },
+	//22.
+    {
+        "genre": "Neuroscience",
+        "author": "Goldberg, Elkhonon",
+        "title": "The New Executive Brain",
+        "year": 2009,
+        "image": "images/Goldberg.JPG"
+    },
+	//23.
+    {
+        "genre": "Neuroscience",
+        "author": "Gray, Jeffrey & Neil McNaughton",
+        "title": "The Neuropsychology of Anxiety",
+        "year": 2003,
+        "image": "images/GN.JPG"
+    },
+	//24.
+    {
+        "genre": "Philosophy",
+        "author": "Herrigel, Eugen",
+        "title": "Zen in the Art of Archery",
+        "year": 1953,
+        "image": "images/Herrigel.PNG"
+    },
+	//25.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Jung, Carl",
+        "title": "The Integration of the Personality",
+        "year": 1939,
+        "image": "images/Jung.jpg"
+    },
+	//26.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Jung, Carl",
+        "title": "Psychology and Alchemy",
+        "year": 1980,
+        "image": "images/Jung2.JPG"
+    },
+    //27.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Jung, Carl",
+        "title": "Symbols of Transformation",
+        "year": 1977,
+        "image": "images/Jung3.jpg"
+    },
+	//28.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Jung, Carl",
+        "title": "Aion",
+        "year": 1979,
+        "image": "images/Jung4.jpg"
+    },
+	//29.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Jung, Carl",
+        "title": "Modern man in search of a soul ",
+        "year": 1933,
+        "image": "images/jung5.jpg"
+    },
+	//30.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Jung, Carl",
+        "title": "Mysterium Coniunctionis",
+        "year": 1977,
+        "image": "images/jung6.jpg"
+    },
+	//31.
+    {
+        "genre": "Clinical Psychology and Psychiatry",
+        "author": "Jung, Carl",
+        "title": "Psychology of Religion: West and East",
+        "year": 1958,
+        "image": "images/jung7.JPG"
+    },
+	//32.
+    {
         "genre": "Philosophy",
         "author": "Lao-Tze",
         "title": "The Canon of Reason and Virtue",
