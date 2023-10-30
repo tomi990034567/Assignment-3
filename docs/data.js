@@ -38,7 +38,7 @@ const dataset = [
         "author": "Confucius",
         "title": "The Great Digest; The Unwobbling Pivot; The Analects",
         "year": 1969,
-        "image": "images/Confucius.jpg"
+        "image": "images/Confucius2.jpg"
     },
 	//6.
     {
@@ -102,7 +102,7 @@ const dataset = [
         "author": "Eliade, Mircea",
         "title": "The Sacred and the Profane",
         "year": 1959,
-        "image": "images/Eliade.5jpg"
+        "image": "images/Eliade5.jpg"
     },
 	//14.
     {
@@ -182,7 +182,7 @@ const dataset = [
         "author": "Gray, Jeffrey & Neil McNaughton",
         "title": "The Neuropsychology of Anxiety",
         "year": 2003,
-        "image": "images/Gray.jpg"
+        "image": "images/GN.jpg"
     },
 	//24.
     {
@@ -244,7 +244,7 @@ const dataset = [
     {
         "genre": "Clinical Psychology and Psychiatry",
         "author": "Jung, Carl",
-        "title": "Psychology of Religion: East and West",
+        "title": "Psychology of Religion: West and East",
         "year": 1958,
         "image": "images/jung7.jpg"
     },
@@ -339,8 +339,8 @@ const dataset = [
 	//43.
     {
         "genre": "General Psychology",
-        "author": "Pirsig, Robert̄",
-        "title": " Zen and the Art of Motorcycle Maintenance",
+        "author": "Pirsig, Robert",
+        "title": "Zen and the Art of Motorcycle Maintenance",
         "year": 1974,
         "image": "images/pirsig.jpg"
     },
@@ -348,7 +348,7 @@ const dataset = [
     {
         "genre": "Clinical Psychology and Psychiatry",
         "author": "Piaget, Jean",
-        "title": " Play, Dreams and Imitation in Childhood",
+        "title": "Play, Dreams and Imitation in Childhood",
         "year": 1962,
         "image": "images/piaget.jpg"
     },
@@ -356,7 +356,7 @@ const dataset = [
     {
         "genre": "Clinical Psychology and Psychiatry",
         "author": "Piaget, Jean",
-        "title": " The Moral Judgment of the Child",
+        "title": "The Moral Judgment of the Child",
         "year": 1932,
         "image": "images/piaget2.jpg"
     },
@@ -403,10 +403,10 @@ const dataset = [
 	//51.
     {
         "genre": "Clinical Psychology and Psychiatry",
-        "author": "Sun, Zi",
+        "author": "Tzu, Sun",
         "title": "The Art of War",
         "year": "2003",
-        "image": "images/sun.jpg"
+        "image": "images/tzu.jpg"
     },
 	//52.
     {
@@ -462,7 +462,7 @@ const dataset = [
         "author": " Dick, Philip K.",
         "title": "Do Androids Dream of Electric Sheep?",
         "year": 1968,
-        "image": "images/watts.jpg"
+        "image": "images/Dick.jpg"
     }
 ];
 //subject categories:
