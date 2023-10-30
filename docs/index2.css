@@ -8,3 +8,11 @@
 .bookImage {
     width: 100px;
 }
+
+#result-grid {
+    width: max-content;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin: auto;
+}
