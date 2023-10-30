@@ -1,3 +1,11 @@
+// Runs search functions if users press enter
+document.getElementById("searchBar").addEventListener("keypress", function (event) {
+    if (event.key === "Enter") {
+        event.preventDefault();
+        document.getElementById("searchButton").click();
+    }
+});
+
 function search() {
     // Saves search input in a variable
     let query = document.getElementById("searchBar").value.toLowerCase();
