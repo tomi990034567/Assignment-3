@@ -27,7 +27,7 @@ We used Java Script to actually build the algorithm and embedded it into the web
 ## Step 4: Design a Small Website for the Project
 
 We created a small website using HTML and CSS to contextualize the algorithm. 
-Including information about the project, dataset, algorithm, your team, and the division of labor.
+Including information about the project, dataset, algorithm, team, and the division of labor.
 
 ## Step 5: Publish The Dataset, Algorithm, and Website on GitHub
 
