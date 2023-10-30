@@ -318,7 +318,7 @@ const dataset = [
         "author": "Nietzsche, Friedrichs",
         "title": "The Gay Science",
         "year": 1924,
-        "image": "Nietzsche3.jpg"
+        "image": "images/Nietzsche3.jpg"
     },
 	//41.
     {
@@ -326,7 +326,7 @@ const dataset = [
         "author": "Nietzsche, Friedrich",
         "title": "The Will to Power",
         "year": 1933,
-        "image": "Nietzsche4.jpg"
+        "image": "images/Nietzsche4.jpg"
     },
 	//42.
     {
