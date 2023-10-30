@@ -310,7 +310,7 @@ const dataset = [
         "author": "Nietzsche, Friedrich",
         "title": "The Antichrist",
         "year": 1990,
-        "image": "images/Nietzsche2.jpg"
+        "image": "images/Nietzsche2.jpeg"
     },
 	//40.
     {
@@ -326,7 +326,7 @@ const dataset = [
         "author": "Nietzsche, Friedrich",
         "title": "The Will to Power",
         "year": 1933,
-        "image": "images/Nietzsche4.jpg"
+        "image": "images/Nietzsche4.jpeg"
     },
 	//42.
     {
