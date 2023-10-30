@@ -62,7 +62,7 @@ const dataset = [
         "author": "Durkheim, Émile",
         "title": "The Elementary Forms of Religious Life",
         "year": 1995,
-        "image": "images/Durkheim.jpg"
+        "image": "images/Durkheim.jpeg"
     },
 	//9.
     {
