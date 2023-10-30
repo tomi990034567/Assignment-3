@@ -133,7 +133,7 @@ const dataset = [
         "genre": "Clinical Psychology and Psychiatry",
         "author": "Freud, Sigmund",
         "title": "The Interpretation of Dreams",
-        "year": 1899,
+        "year": 1900,
         "image": "images/Freud.JPG"
     },
 	//18.
