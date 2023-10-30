@@ -5,6 +5,18 @@ function search() {
 
     // Saves search filter in a variable
     let genre = document.getElementById("genre").value;
+    let startYear = document.getElementById("startYear").value;
+    let endYear = document.getElementById("endYear").value;
+
+    // Checks if years are positive numbers and startYear is less than endYear
+    let validYears = false;
+    if (typeof parseInt(startYear) === 'number' || typeof parseInt(endYear) === 'number') {
+        if (startYear > 0 || endYear < 0) {
+            if (startYear < endYear) {
+                validYears = true;
+            }
+        }
+    }
 
     // Removes any books displayed in results grid and search message
     document.getElementById("result-grid").innerHTML = "";
@@ -15,22 +27,29 @@ function search() {
 
     // Checks for each book in data if title or author includes query
     for (book of dataset) {
+        // Breaks loop if years are not valid
+        if (validYears == false) {
+            break;
+        }
         if (genre == book.genre || genre == "All") {
             // Creates property for search score
             book.score = 0;
 
-            for (word of queryWords) {
-                if (book.title.toLocaleLowerCase().includes(word)) {
-                    book.score += 1;
-                }
-                if (book.author.toLocaleLowerCase().includes(word)) {
-                    book.score += 1;
-                }
-            }
+            if (book.year >= startYear && book.year <= endYear) {
 
-            // Adds all matching books to searchResult
-            if (book.score > 0) {
-                searchResult.push(book)
+                for (word of queryWords) {
+                    if (book.title.toLocaleLowerCase().includes(word)) {
+                        book.score += 1;
+                    }
+                    if (book.author.toLocaleLowerCase().includes(word)) {
+                        book.score += 1;
+                    }
+                }
+
+                // Adds all matching books to searchResult
+                if (book.score > 0) {
+                    searchResult.push(book)
+                }
             }
         }
     }
@@ -45,8 +64,13 @@ function search() {
         displayBooks(result);
     }
 
-    // Displays message about the amount of books found
-    if (searchResult.length == 0 || query == "") {
+    // Displays message about the search result
+    if (validYears == false) {
+        let message = document.createElement("p");
+        message.innerText = `Please enter valid values for years`;
+        document.getElementById("searchMessage").appendChild(message);
+    }
+    else if (searchResult.length == 0 || query == "") {
         document.getElementById("result-grid").innerHTML = "";
         let message = document.createElement("p");
         message.innerText = `No results matched your search "${query}"`;
