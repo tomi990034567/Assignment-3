@@ -66,11 +66,12 @@
             <div class="container">
                 <h3>Challenges</h3>
                 <p>The main challenges that we have encountered were related to the algorithm, as we started with relational databases that proved to be hard to link to the algorithm, we tried different examples of code we found in W3schools etc. In the end, we decided to go with a more practical algorithm that just used one dataset in the form of a list where it searches for the relevant words in that one list. 
-                <p>Here are some other challenges with creating the algorithm:
-                - If we only compared the user input with the book titles and author names as they are, the algorithm would be case sensitive, meaning that the same word but with uppercase or lowercase letters would not display all results. To handle this issue we convert both the user input and the book data to lowercase letters before comparing them.
-                - Using xml, csv or json for the data proved difficult so we decided to write the dataset in javascript.
-                - If we compare the user input and the book data as they are, the algorithm will only display results including that exact sequence of characters, meaning that books that include words from the query but in other orders will not be displayed. This also applies to queries that include both the book title and the author names, which won’t display any results. To handle this issue the user input is split into different words (based on spaces) and stored in an array. The algorithm then checks each word in the array if they are included in the book title or author name.
-                - To ensure that more relevant books are displayed higher up in the result list, the search results are ordered by a score that is based on the number of matching words in the title or the author name.</p>
+                <ul>Here are some other challenges with creating the algorithm:
+                <li>If we only compared the user input with the book titles and author names as they are, the algorithm would be case sensitive, meaning that the same word but with uppercase or lowercase letters would not display all results. To handle this issue we convert both the user input and the book data to lowercase letters before comparing them.</li>
+                <li>Using xml, csv or json for the data proved difficult so we decided to write the dataset in javascript.</li>
+                <li>If we compare the user input and the book data as they are, the algorithm will only display results including that exact sequence of characters, meaning that books that include words from the query but in other orders will not be displayed. This also applies to queries that include both the book title and the author names, which won’t display any results. To handle this issue the user input is split into different words (based on spaces) and stored in an array. The algorithm then checks each word in the array if they are included in the book title or author name.</li>
+                <li>To ensure that more relevant books are displayed higher up in the result list, the search results are ordered by a score that is based on the number of matching words in the title or the author name.</li>
+                </ul>
             </div>
         </section>
 
