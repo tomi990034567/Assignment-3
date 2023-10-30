@@ -118,7 +118,6 @@
         <year>1899</year>
         <image>images/Freud.jpg</image>
     </book>
-<root>
     <book>
         <genre>Clinical Psychology and Psychiatry</genre>
         <author>Freud, Sigmund</author>
@@ -156,7 +155,7 @@
     </book>
     <book>
         <genre>Neuroscience</genre>
-        <author>Gray, Jeffrey & Neil McNaughton</author>
+        <author>Gray, Jeffrey and Neil McNaughton</author>
         <title>The Neuropsychology of Anxiety</title>
         <year>2003</year>
         <image>images/Gray.jpg</image>
@@ -240,7 +239,7 @@
     </book>
     <book>
         <genre>Clinical Psychology and Psychiatry</genre>
-        <author> May, Rollo, Angel, Ernest & Ellenberger, Henri</author>
+        <author> May, Rollo, Angel, Ernest and Ellenberger, Henri</author>
         <title> Existence: A New Dimension in Psychiatry and Psychology</title>
         <year>1958</year>
         <image>images/MAE.jpg</image>
